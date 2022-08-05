@@ -16,8 +16,8 @@ The table below shows the measures of central tendency of the numerical columns 
 After the cleaning and coding of the categorical and other data, the data summaries came down to:
 * sex\
 The sex demographic of the one who made the tip
-<div style="text-align:left"><img src="assets/sex.png" /></div>
-<h5 align="left"> where 0 = female and 1 = male </h5>
+
+<div style="text-align:left"><img src="assets/newplot (1).png" /></div>
 
 * smoker\
 Whether the tipper was a smoker or a non-smoker
@@ -26,13 +26,11 @@ Whether the tipper was a smoker or a non-smoker
 
 * day\
 The day of the week
-<div style="text-align:left"><img src="assets/day.png" /></div>
-<h5 align="left"> where 0 = Thur, 1 = Fri, 2 = Sat and 3 = Sun </h5>
+<div style="text-align:left"><img src="assets/newplot.png" /></div>
 
 * time\
 The time of the day
-<div style="text-align:left"><img src="assets/time.png" /></div>
-<h5 align="left"> where 0 = Dinner and 1 = Lunch </h5>
+<div style="text-align:left"><img src="assets/newplot (2).png" /></div>
 
 * size\
 The family size
