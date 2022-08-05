@@ -16,28 +16,28 @@ The table below shows the measures of central tendency of the numerical columns 
 After the cleaning and coding of the categorical and other data, the data summaries came down to:
 * sex\
 The sex demographic of the one who made the tip
-<div style="text-align:center"><img src="assets/sex.png" /></div>
-<h5 align="center"> where 0 = female and 1 = male </h5>
+<div style="text-align:left"><img src="assets/sex.png" /></div>
+<h5 align="left"> where 0 = female and 1 = male </h5>
 
 * smoker\
 Whether the tipper was a smoker or a non-smoker
-<div style="text-align:center"><img src="assets/smoker.png" /></div>
+<div style="text-align:left"><img src="assets/smoker.png" /></div>
 <h5 align="left"> where 0 = No and 1 = Yes </h5>
 
 * day\
 The day of the week
-<div style="text-align:center"><img src="assets/day.png" /></div>
+<div style="text-align:left"><img src="assets/day.png" /></div>
 <h5 align="left"> where 0 = Thur, 1 = Fri, 2 = Sat and 3 = Sun </h5>
 
 * time\
 The time of the day
-<div style="text-align:center"><img src="assets/time.png" /></div>
+<div style="text-align:left"><img src="assets/time.png" /></div>
 <h5 align="left"> where 0 = Dinner and 1 = Lunch </h5>
 
 * size\
 The family size
-<div style="text-align:center"><img src="assets/size.png" /></div>
+<div style="text-align:left"><img src="assets/size.png" /></div>
 
 ## Table of Association
 Shown below is the table of association between the variables. The python package `sweetviz` is used to generate this grid of associations. 
-<div style="text-align:center"><img src="assets/association.png" /></div>
+<div style="text-align:left"><img src="assets/association.png" /></div>
